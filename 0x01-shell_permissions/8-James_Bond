@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos u-rwx,g-rwx,o+rwx hello
+chmos 007 hello
